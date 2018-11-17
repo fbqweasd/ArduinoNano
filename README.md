@@ -1,4 +1,4 @@
-#Arduino Nano - UKC
+# Arduino Nano - UKC
 
 kicad를 사용하여 아두이노 NANO회로 설계
 
@@ -6,7 +6,7 @@ __사용프로그램 : kicad__
 
 __MCU : ATmega328__
 
-##회로도
+## 회로도
 
 ![회도도](/img/circuit.png)
 
